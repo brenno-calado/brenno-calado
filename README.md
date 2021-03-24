@@ -1,5 +1,21 @@
-### Hi there 👋
+### Hello World! 👋
 
+I'm a front-end developer student at Trybe!  
+Currently working with BigBlueButton Open Source Web Conferencing at Handsfree Institute. I use React to commit changes.  
+Right now I'm learning Redux, Meteor, Python and Sass.  
+I have experience working with:
+  * HTML :orange_book:
+  * CSS :blue_book:
+  * ES6 :ledger:
+  * React ⚛️
+  * Git :octocat:
+  * Jest 🃏
+  * Bash 💻  
+I have self-taught experience with tools such as Inkscape/Illustrator and Gimp/Photoshop.  
+On the Geography realm I have experience working with tools such as QGIS, Mapbox, CARTO, ArcMap, DroneDeploy.
+
+#### linkedin: https://www.linkedin.com/in/brenno-calado-vieira-de-melo-nascimento
+#### email: brenno.calado@gmail.com
 <!--
 **brenno-calado/brenno-calado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +32,3 @@ Here are some ideas to get you started:
 -->
 ![Brenno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenno-calado&show_icons=true&theme=tokyonight&count_private=true)
 [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brenno-calado&layout=compact&theme=tokyonight)](https://github.com/brenno-calado/github-readme-stats)
-
-### front-end developer student at Trybe
-### I'm learning React, Python and Meteor
-
-
