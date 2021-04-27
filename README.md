@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Brenno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenno-calado&show_icons=true&theme=tokyonight&count_private=true)
-[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brenno-calado&layout=compact&theme=tokyonight)](https://github.com/brenno-calado/github-readme-stats)
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brenno-calado&layout=compact&theme=tokyonight)
