@@ -2,7 +2,7 @@
 
 I'm a front-end developer student at Trybe!  
 Currently working with BigBlueButton Open Source Web Conferencing at Handsfree Institute. I use React to commit changes.  
-Right now I'm learning Redux, Meteor, Python and Sass.  
+Right now I'm learning React Hooks, Meteor, Python and Sass.  
 I have experience working with:
   * HTML :orange_book:
   * CSS :blue_book:
