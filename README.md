@@ -8,9 +8,12 @@ I have experience working with:
   * CSS :blue_book:
   * ES6 :ledger:
   * React ⚛️
+  * Redux 🟣
   * Git :octocat:
   * Jest 🃏
-  * Bash 💻  
+  * Bash 💻
+  * MySQL 🐬
+  * MongoDB 🍃
 I have self-taught experience with tools such as Inkscape/Illustrator and Gimp/Photoshop.  
 On the Geography realm I have experience working with tools such as QGIS, Mapbox, CARTO, ArcMap, DroneDeploy.
 
