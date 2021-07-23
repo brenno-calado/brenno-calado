@@ -2,7 +2,7 @@
 
 I'm a front-end developer student at Trybe!  
 Currently working with BigBlueButton Open Source Web Conferencing at Handsfree Institute. I use React to commit changes.  
-Right now I'm learning React Hooks, Meteor, Python and Sass.  
+Right now I'm learning how to deploy with Heroku and PM2.  
 I have experience working with:
   * HTML :orange_book:
   * CSS :blue_book:
@@ -14,11 +14,18 @@ I have experience working with:
   * Bash 💻
   * MySQL 🐬
   * MongoDB 🍃
+  * Node.js
+  * Express
+  * Meteor ☄
 I have self-taught experience with tools such as Inkscape/Illustrator and Gimp/Photoshop.  
 On the Geography realm I have experience working with tools such as QGIS, Mapbox, CARTO, ArcMap, DroneDeploy.
 
+I'm looking for help on my tarkov-like inventory system! Feel free to contribute, it's open-source!
+You can reach me on:
 #### linkedin: https://www.linkedin.com/in/brenno-calado-vieira-de-melo-nascimento
 #### email: brenno.calado@gmail.com
+
+Fun facts about me: I love exploring the unbeaten path, such as lesser known ruins!
 <!--
 **brenno-calado/brenno-calado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
