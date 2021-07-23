@@ -1,7 +1,7 @@
 ### Hello World! 👋
 
 I'm a front-end developer student at Trybe!  
-Currently working with BigBlueButton Open Source Web Conferencing at Handsfree Institute. I use React to commit changes.  
+Currently working with BigBlueButton Open Source Web Conferencing at Handsfree Institute.
 Right now I'm learning how to deploy with Heroku and PM2.  
 I have experience working with:
   * HTML :orange_book:
