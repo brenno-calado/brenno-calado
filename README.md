@@ -17,6 +17,7 @@ I have experience working with:
   * Node.js
   * Express
   * Meteor ☄
+
 I have self-taught experience with tools such as Inkscape/Illustrator and Gimp/Photoshop.  
 On the Geography realm I have experience working with tools such as QGIS, Mapbox, CARTO, ArcMap, DroneDeploy.
 
@@ -25,7 +26,7 @@ You can reach me on:
 #### linkedin: https://www.linkedin.com/in/brenno-calado-vieira-de-melo-nascimento
 #### email: brenno.calado@gmail.com
 
-Fun facts about me: I love exploring the unbeaten path, such as lesser known ruins!
+Fun facts about me: I love exploring the unbeaten path, be it in the real world, or exploring every inch of a video game map!
 <!--
 **brenno-calado/brenno-calado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
