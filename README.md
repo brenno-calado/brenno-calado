@@ -2,7 +2,8 @@
 
 I'm a front-end developer student at Trybe!  
 Currently working with BigBlueButton Open Source Web Conferencing at Handsfree Institute.
-Right now I'm learning how to deploy with Heroku and PM2.  
+
+Right now I'm learning Sequelize.  
 I have experience working with:
   * HTML :orange_book:
   * CSS :blue_book:
