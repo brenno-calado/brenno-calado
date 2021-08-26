@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Brenno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenno-calado&show_icons=true&theme=tokyonight&count_private=true)
+![Brenno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenno-calado&show_icons=true&theme=tokyonight&count_private=false)
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brenno-calado&layout=compact&theme=tokyonight)
