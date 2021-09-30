@@ -1,14 +1,14 @@
 ### Hello World! 👋
 
-I'm a front-end developer student at Trybe!  
-Currently working with BigBlueButton Open Source Web Conferencing at Handsfree Institute.
+I'm a full-stack developer and Computer Science student at Trybe!  
+Currently implementing a full-stack solution at Handsfree Institute
  
 Some of what I love to work with:
  | Javascript :ledger: | React ⚛️ | Jest 🃏 | MySQL 🐬 | MongoDB 🍃 | Node ⬢ | CSS 📘 |
  |---------------------|---------|---------|----------|------------|------|--------| 
   
 
-I have self-taught experience with design tools such as Inkscape/Illustrator and Gimp/Photoshop.  
+
 As a Geographer, I have experience working with tools such as QGIS, Mapbox, CARTO, ArcMap, DroneDeploy.
 
 You can reach me on:
