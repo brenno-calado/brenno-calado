@@ -7,13 +7,12 @@ Some of what I love to work with:
  | Typescript :large_blue_diamond: | Kafka :mailbox: | Jest 🃏 | MongoDB 🍃 | MySQL 🐬 | Node ⬢ | CSS 📘 | React ⚛️ |
  |---------------------------------|-----------------|---------|------------|----------|---------|--------|---------| 
   
-  Currently studying GraphQL
-  
   Study list:
+   - [ ] Java
    - [ ] Redis,
    - [ ] MQTT,
    - [ ] Lambda,
-   - [ ] gRPC 
+   - [ ] gRPC
 
 As a Geographer, I have experience working with tools such as QGIS, Mapbox, CARTO, DroneDeploy.
 
