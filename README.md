@@ -8,11 +8,12 @@ Some of what I love to work with:
  |---------------------------------|-----------------|---------|------------|----------|---------|--------|---------| 
   
   Study list:
-   - [ ] Java
+ 
    - [ ] Redis,
    - [ ] MQTT,
    - [ ] Lambda,
    - [ ] gRPC
+   - [ ] Java
 
 As a Geographer, I have experience working with tools such as QGIS, Mapbox, CARTO, DroneDeploy.
 
