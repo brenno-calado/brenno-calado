@@ -4,22 +4,45 @@ I'm a full-stack developer by Trybe!
 Currently working as a Junior Backend developer at Saúde iD
  
 Some of what I love to work with:
- | Typescript :large_blue_diamond: | Kafka :mailbox: | Jest 🃏 | MongoDB 🍃 | MySQL 🐬 | Node ⬢ | CSS 📘 | React ⚛️ |
- |---------------------------------|-----------------|---------|------------|----------|---------|--------|---------| 
+* Programming Languages:
+  - Javascript 🟨
+  - Typescript :large_blue_diamond:
+  - Python 🐍
+* Front-End:
+  - React ⚛️
+* Back-End:
+  - NodeJS ⬢
+* Databases:
+  - MongoDB 🍃
+  - MySQL 🐬
+  - PostgreSQL 🐘
+* Test
+  - Jest 🃏
+  - PyTest 🌈
+* Pub/Sub
+  - Kafka :mailbox:
+* Cloud:
+  - Docker 🐋
+  - Lambda λ
+  - Heroku 🟣
+* Geography:
+  - QGIS 🧭
+  - MapBox 🧑‍🚀
+  - Leaflet 🍃
+  - CARTO ⚫
+  - DroneDeploy 🛩️
   
   Study list:
  
+   - [ ] NestJS
    - [ ] Redis,
    - [ ] MQTT,
-   - [ ] Lambda,
    - [ ] gRPC
-   - [ ] Java
-
-As a Geographer, I have experience working with tools such as QGIS, Mapbox, CARTO, DroneDeploy.
+   - [ ] GeoBlockChain
 
 You can reach me on:
-#### linkedin: https://www.linkedin.com/in/brenno-calado-vieira-de-melo-nascimento
-#### email: brenno.calado@gmail.com
+#### Linkedin: https://www.linkedin.com/in/brenno-calado-vieira-de-melo-nascimento
+#### Email: brenno.calado@gmail.com
 
 Fun facts about me: I love exploring the unbeaten path, be it in the real world, or looking for easter-eggs on a video game map!
 
