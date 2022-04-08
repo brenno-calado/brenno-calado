@@ -4,28 +4,28 @@ I'm a full-stack developer by Trybe!
 Currently working as a Junior Backend developer at Saúde iD
  
 Some of what I love to work with:
-* Programming Languages:
+* **Programming Languages**:
   - Javascript 🟨
   - Typescript :large_blue_diamond:
   - Python 🐍
-* Front-End:
+* **Front-End**:
   - React ⚛️
-* Back-End:
+* **Back-End**:
   - NodeJS ⬢
-* Databases:
+* **Databases**:
   - MongoDB 🍃
   - MySQL 🐬
   - PostgreSQL 🐘
-* Test
+* **Test**:
   - Jest 🃏
   - PyTest 🌈
-* Pub/Sub
+* **Pub/Sub**:
   - Kafka :mailbox:
-* Cloud:
+* **Cloud**:
   - Docker 🐋
   - Lambda λ
   - Heroku 🟣
-* Geography:
+* **Geography**:
   - QGIS 🧭
   - MapBox 🧑‍🚀
   - Leaflet 🍃
