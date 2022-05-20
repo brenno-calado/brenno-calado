@@ -35,6 +35,7 @@ Some of what I love to work with:
   Study list:
  
    - [ ] NestJS
+   - [ ] Prisma
    - [ ] Redis,
    - [ ] MQTT,
    - [ ] gRPC
