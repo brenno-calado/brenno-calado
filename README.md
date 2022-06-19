@@ -4,37 +4,20 @@ I'm a full-stack developer by Trybe!
 Currently working as a Junior Backend developer at Saúde iD
  
 Some of what I love to work with:
-* **Programming Languages**:
-  - Javascript 🟨
-  - Typescript :large_blue_diamond:
-  - Python 🐍
-* **Front-End**:
-  - React ⚛️
-* **Back-End**:
-  - NodeJS ⬢
-* **Databases**:
-  - MongoDB 🍃
-  - MySQL 🐬
-  - PostgreSQL 🐘
-* **Test**:
-  - Jest 🃏
-  - PyTest 🌈
-* **Pub/Sub**:
-  - Kafka :mailbox:
-* **Cloud**:
-  - Docker 🐋
-  - Lambda λ
-  - Heroku 🟣
-* **Geography**:
-  - QGIS 🧭
-  - MapBox 🧑‍🚀
-  - Leaflet 🍃
-  - CARTO ⚫
-  - DroneDeploy 🛩️
-  
+
+| | | | | | |
+|--------------------------|---------------|---------------------------------|-----------|----|----|
+|**Programming Languages**:| Javascript 🟨 | Typescript :large_blue_diamond: | Python 🐍 |
+|**Front-End**:| React ⚛️ |
+|**Back-End**:| NodeJS ⬢ | NestJS 🐈 |
+|**Databases**:| MongoDB 🍃 | MySQL 🐬 | PostgreSQL 🐘 |
+|**Test**:| Jest 🃏 | PyTest 🌈 | Cypress ⚫ |
+|**Pub/Sub**:| Kafka :mailbox:| Google Pub/Sub :mailbox: |
+|**Cloud**:| Docker 🐋 | Lambda λ | Heroku 🟣 |
+|**Mapping**:| QGIS 🧭| MapBox 🧑‍🚀 | Leaflet 🍃| CARTO ⚫| DroneDeploy 🛩️|
+
   Study list:
  
-   - [ ] NestJS
    - [ ] Prisma
    - [ ] Redis,
    - [ ] MQTT,
