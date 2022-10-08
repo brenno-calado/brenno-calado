@@ -5,8 +5,8 @@ Currently working as a Junior Backend developer at Saúde iD
  
 Some of what I love to work with:
 
-| | | | | | |
-|--------------------------|---------------|---------------------------------|-----------|----|----|
+| | | | | |
+|--------------------------|---------------|---------------------------------|-----------|----|
 |**Programming Languages**:| Javascript 🟨 | Typescript :large_blue_diamond: | Python 🐍 |
 |**Front-End**:| React ⚛️ |
 |**Back-End**:| NodeJS ⬢ | NestJS 🐈 |
@@ -16,10 +16,13 @@ Some of what I love to work with:
 |**Cloud**:| Docker 🐋 | Lambda λ | Heroku 🟣 |
 |**Mapping**:| QGIS 🧭| MapBox 🧑‍🚀 | Leaflet 🍃| CARTO ⚫|
 
+
   Study list:
- 
-   - [ ] Prisma
-   - [ ] Redis,
+   - [ ] Java
+   - [ ] Spring Boot
+   - [ ] C#
+   - [ ] .NET
+   - [ ] Hibernate/JPA
    - [ ] MQTT,
    - [ ] gRPC
    - [ ] GeoBlockChain
