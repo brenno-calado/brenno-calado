@@ -14,7 +14,7 @@ Some of what I love to work with:
 |**Test**:| Jest 🃏 | PyTest 🌈 | Cypress ⚫ |
 |**Pub/Sub**:| Kafka :mailbox:| Google Pub/Sub :mailbox: |
 |**Cloud**:| Docker 🐋 | Lambda λ | Heroku 🟣 |
-|**Mapping**:| QGIS 🧭| MapBox 🧑‍🚀 | Leaflet 🍃| CARTO ⚫| DroneDeploy 🛩️|
+|**Mapping**:| QGIS 🧭| MapBox 🧑‍🚀 | Leaflet 🍃| CARTO ⚫|
 
   Study list:
  
