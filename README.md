@@ -1,13 +1,12 @@
 ### Hello World! 👋
 
-I'm a full-stack developer by Trybe!
-Currently working as a Junior Backend developer at Saúde iD
+I have a full-stack certification by Trybe
  
 Some of what I love to work with:
 
 | | | | | |
 |--------------------------|---------------|---------------------------------|-----------|----|
-|**Programming Languages**:| Javascript 🟨 | Typescript :large_blue_diamond: | Python 🐍 |
+|**Programming Languages**:| Javascript 🟨 | Typescript :large_blue_diamond: | Python 🐍 | Java ☕ |
 |**Front-End**:| React ⚛️ |
 |**Back-End**:| NodeJS ⬢ | NestJS 🐈 |
 |**Databases**:| MongoDB 🍃 | MySQL 🐬 | PostgreSQL 🐘 |
@@ -18,11 +17,10 @@ Some of what I love to work with:
 
 
   Study list:
-   - [ ] Java
    - [ ] Spring Boot
+   - [ ] Hibernate/JPA
    - [ ] C#
    - [ ] .NET
-   - [ ] Hibernate/JPA
    - [ ] MQTT,
    - [ ] gRPC
    - [ ] GeoBlockChain
