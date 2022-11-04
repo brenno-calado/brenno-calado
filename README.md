@@ -1,7 +1,8 @@
 ### Hello World! 👋
 
-I have a full-stack certification by Trybe
- 
+I'm a full-stack developer certified by Trybe
+I have a bachelor's degree in Geography
+
 Some of what I love to work with:
 
 | | | | | |
