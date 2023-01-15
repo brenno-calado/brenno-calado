@@ -31,6 +31,3 @@ You can reach me on:
 #### Email: brenno.calado@gmail.com
 
 Fun facts about me: I love exploring the unbeaten path, be it in the real world, or looking for easter-eggs on a video game map!
-
-![Brenno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenno-calado&show_icons=true&theme=tokyonight&count_private=false)
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brenno-calado&layout=compact&theme=tokyonight)
