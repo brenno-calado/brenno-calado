@@ -8,7 +8,7 @@ Some of what I love to work with:
 | | | | | |
 |--------------------------|---------------|---------------------------------|-----------|----|
 |**Programming Languages**:| Javascript 🟨 | Typescript :large_blue_diamond: | Python 🐍 | Java ☕ |
-|**Front-End**:| React ⚛️ |
+|**Front-End**:| React ⚛️ | Next.JS 🔺 |
 |**Back-End**:| NodeJS ⬢ | NestJS 🐈 |
 |**Databases**:| MongoDB 🍃 | MySQL 🐬 | PostgreSQL 🐘 |
 |**Test**:| Jest 🃏 | PyTest 🌈 | Cypress ⚫ |
