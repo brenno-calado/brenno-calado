@@ -5,26 +5,71 @@ I have a bachelor's degree in Geography
 
 Some of what I love to work with:
 
-| | | | | |
-|--------------------------|---------------|---------------------------------|-----------|----|
-|**Programming Languages**:| Javascript 🟨 | Typescript :large_blue_diamond: | Python 🐍 | Java ☕ |
-|**Front-End**:| React ⚛️ | Next.JS 🔺 |
-|**Back-End**:| NodeJS ⬢ | NestJS 🐈 |
-|**Databases**:| MongoDB 🍃 | MySQL 🐬 | PostgreSQL 🐘 |
-|**Test**:| Jest 🃏 | PyTest 🌈 | Cypress ⚫ |
-|**Pub/Sub**:| Kafka :mailbox:| Google Pub/Sub :mailbox: |
-|**Cloud**:| Docker 🐋 | Lambda λ | Heroku 🟣 |
-|**Mapping**:| QGIS 🧭| MapBox 🧑‍🚀 | Leaflet 🍃| CARTO ⚫|
-
+<table>
+  <tr>
+    <th>Programming Languages</th>
+    <td>Typescript :large_blue_diamond:</td>
+    <td>Python 🐍</td>
+    <td>Java ☕</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Front-End</th>
+    <td>React ⚛️</td>
+    <td>Next.JS 🔺</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Back-End</th>
+    <td>NodeJS ⬢</td>
+    <td>NestJS 🐈</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Databases</th>
+    <td>MongoDB 🍃</td>
+    <td>MySQL 🐬</td>
+    <td>PostgreSQL 🐘</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Tests</th>
+    <td>Jest 🃏</td>
+    <td>PyTest 🌈 </td>
+    <td>Cypress ⚫</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Pub/Sub</th>
+    <td>Kafka :mailbox:</td>
+    <td>Google Pub/Sub :mailbox:</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Cloud</th>
+    <td>Docker 🐋</td>
+    <td>Lambda λ</td>
+    <td>Heroku 🟣</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Mapping</th>
+    <td>QGIS 🧭</td>
+    <td>Mapbox 🧑🚀</td>
+    <td>CARTO ⚫</td>
+    <td>Leaflet 🍃</td>
+  </tr>
+</table>
 
   Study list:
-   - [ ] Spring Boot
-   - [ ] Hibernate/JPA
    - [ ] C#
-   - [ ] .NET
    - [ ] MQTT,
    - [ ] gRPC
    - [ ] GeoBlockChain
+   - [ ] Unity
 
 You can reach me on:
 #### Linkedin: https://www.linkedin.com/in/brenno-calado
