@@ -11,13 +11,11 @@ Some of what I love to work with:
     <td>Typescript :large_blue_diamond:</td>
     <td>Python 🐍</td>
     <td>Java ☕</td>
-    <td></td>
   </tr>
   <tr>
     <th>Front-End</th>
     <td>React ⚛️</td>
     <td>Next.JS 🔺</td>
-    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -25,27 +23,23 @@ Some of what I love to work with:
     <td>NodeJS ⬢</td>
     <td>NestJS 🐈</td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <th>Databases</th>
     <td>MongoDB 🍃</td>
     <td>MySQL 🐬</td>
     <td>PostgreSQL 🐘</td>
-    <td></td>
   </tr>
   <tr>
     <th>Tests</th>
     <td>Jest 🃏</td>
     <td>PyTest 🌈 </td>
     <td>Cypress ⚫</td>
-    <td></td>
   </tr>
   <tr>
     <th>Pub/Sub</th>
     <td>Kafka :mailbox:</td>
     <td>Google Pub/Sub :mailbox:</td>
-    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -53,23 +47,21 @@ Some of what I love to work with:
     <td>Docker 🐋</td>
     <td>Lambda λ</td>
     <td>Heroku 🟣</td>
-    <td></td>
   </tr>
   <tr>
     <th>Mapping</th>
     <td>QGIS 🧭</td>
     <td>Mapbox 🧑🚀</td>
-    <td>CARTO ⚫</td>
     <td>Leaflet 🍃</td>
   </tr>
 </table>
 
   Study list:
-   - [ ] C#
+   - [ ] Android
    - [ ] MQTT,
    - [ ] gRPC
    - [ ] GeoBlockChain
-   - [ ] Unity
+   - [ ] Unity / C#
 
 You can reach me on:
 #### Linkedin: https://www.linkedin.com/in/brenno-calado
