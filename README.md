@@ -67,6 +67,6 @@ You can reach me on:
 #### Linkedin: https://www.linkedin.com/in/brenno-calado
 #### Email: brenno.calado@gmail.com
 
-And look up my portfolio [here](https://brenno-calado.github.io/portfolio/)
+And look up my portfolio [here](portfolio-chi-peach-35.vercel.app/)
 
 Fun facts about me: I love exploring the unbeaten path, be it in the real world, or looking for easter-eggs on a video game map!
