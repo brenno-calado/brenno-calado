@@ -68,6 +68,7 @@ Some of what I love to work with:
 </table>
 
   Study list:
+   - [ ] LGTM
    - [ ] MQTT,
    - [ ] gRPC
    - [ ] GeoBlockChain
