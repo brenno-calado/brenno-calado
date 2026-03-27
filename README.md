@@ -1,7 +1,10 @@
 ### Hello World! 👋
 
 I'm a full-stack developer certified by Trybe
+
 I have a bachelor's degree in Geography
+
+And I'm currently studying a Software Architecture MBA at FullCycle
 
 Some of what I love to work with:
 
